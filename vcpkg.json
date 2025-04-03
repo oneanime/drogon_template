@@ -1,0 +1,15 @@
+{
+  "name": "drogon-template-project",
+  "version": "1.0.0",
+  "dependencies": [
+    "drogon",
+    "yaml-cpp"
+  ],
+  "builtin-baseline": "533a5fda5c0646d1771345fb572e759283444d5f",
+  "overrides": [
+    {
+      "name": "drogon",
+      "version": "1.9.10"
+    }
+  ]
+}
