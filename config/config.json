@@ -1,7 +1,7 @@
 {
     "app": {
         "thread_num": 8,
-        "run_as_daemon": false,
+        "run_as_daemon": true,
         "log": {
             "log_path": "../logs",
             "logfile_base_name": "out",
